@@ -1,0 +1,8 @@
+Account Number: 231
+Name: Georgi
+Year of Account Opening: 2022
+Deposits:
+  Currency: USD
+  Amount: 2023
+  Year of Deposit Creation: 2023
+----------------------------
