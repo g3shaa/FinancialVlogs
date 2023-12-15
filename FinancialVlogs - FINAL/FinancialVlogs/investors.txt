@@ -1,0 +1,33 @@
+Account Number: 1001
+Name: Alice Johnson
+Year of Account Opening: 2018
+Deposits:
+  Currency: USD
+  Amount: 5000
+  Year of Deposit Creation: 2019
+  Currency: EURO
+  Amount: 3000
+  Year of Deposit Creation: 2020
+----------------------------
+Account Number: 1002
+Name: Rick Ross
+Year of Account Opening: 2017
+Deposits:
+  Currency: BGN
+  Amount: 2000
+  Year of Deposit Creation: 2018
+----------------------------
+Account Number: 1003
+Name: Jack Ross
+Year of Account Opening: 2019
+Deposits:
+  Currency: USD
+  Amount: 7500
+  Year of Deposit Creation: 2021
+  Currency: BGN
+  Amount: 1000
+  Year of Deposit Creation: 2021
+  Currency: EURO
+  Amount: 4500
+  Year of Deposit Creation: 2022
+----------------------------
